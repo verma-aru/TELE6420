@@ -47,7 +47,6 @@ For submission of Questions 1 and 2, show the CLI commands used with terminal ou
 14. `git commit -m "second commit"`
 15. `git log`
 
-
-<h3>Copyright © Arun Verma[^1]</h3>
 ---
+Copyright © Arun Verma[^1] - 2024
 [^1]: MS Student Fall 2022 Batch
