@@ -1,3 +1,12 @@
+# TELE6420 52604 Infrastructure Automation SEC V30 Summer Full 2022 [BOS-2-TR]
+
+- **Name:** Arun Verma  
+- **NUID:** 002754339  
+- **Email:** [verma.aru@northeastern.edu](mailto:verma.aru@northeastern.edu)  
+- **Department:** MGEN - Telecommunication Network  
+- **University:** Northeastern University  
+
+---
 # Using [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## TELE6420: Infrastructure Automation and Design Course
