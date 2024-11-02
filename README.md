@@ -29,18 +29,20 @@ For submission of Questions 1 and 2, show the CLI commands used with terminal ou
 3. Briefly explain what you inferred from the output of each executed command.
 4. Answer the inlined questions.
 
-mkdir learn_git
-cd learn_git
-git status
-git init
-touch afile.txt
-git status
-git add afile.txt
-git status
-git commit -m "first commit"
-git log
-ifconfig > afile.txt
-git diff
-git add afile.txt
-git commit -m "second commit"
-git log
+The commands to execute are:
+
+1. `mkdir learn_git`
+2. `cd learn_git`
+3. `git status`
+4. `git init`
+5. `touch afile.txt`
+6. `git status`
+7. `git add afile.txt`
+8. `git status`
+9. `git commit -m "first commit"`
+10. `git log`
+11. `ifconfig > afile.txt`
+12. `git diff`
+13. `git add afile.txt`
+14. `git commit -m "second commit"`
+15. `git log`
