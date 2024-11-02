@@ -48,6 +48,6 @@ For submission of Questions 1 and 2, show the CLI commands used with terminal ou
 15. `git log`
 
 
-Copyright © Arun Verma[^1]
+<h3>Copyright © Arun Verma[^1]</h3>
 ---
 [^1]: MS Student Fall 2022 Batch
