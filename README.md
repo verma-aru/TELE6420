@@ -27,7 +27,7 @@ For submission of Questions 1 and 2, show the CLI commands used with terminal ou
 1. Execute the below commands in a Linux terminal in the provided sequence.
 2. Explain the executed command (only the first time you execute a new command).
 3. Briefly explain what you inferred from the output of each executed command.
-4. Answer the > blockquote inlined questions.
+4. Answer the inlined questions.
 
 *The commands to execute are:*
 
@@ -47,4 +47,14 @@ For submission of Questions 1 and 2, show the CLI commands used with terminal ou
 14. `git commit -m "second commit"`
 15. `git log`
 
+---
+Copyright © Arun Verma[^1] MS Student Fall 2022 Batch H₂O
+
+[^1]: Author's note or additional information can go here.
+
+---
+
+**Note:** Highlighting in Markdown can be done using HTML tags since standard Markdown does not support it natively. For example, you can use `<mark>` for highlighting:
+
+<mark>Copyright © Arun Verma MS Student Fall 2022 Batch H₂O</mark>
 ---
