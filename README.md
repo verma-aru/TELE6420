@@ -27,9 +27,9 @@ For submission of Questions 1 and 2, show the CLI commands used with terminal ou
 1. Execute the below commands in a Linux terminal in the provided sequence.
 2. Explain the executed command (only the first time you execute a new command).
 3. Briefly explain what you inferred from the output of each executed command.
-4. Answer the inlined questions.
+4. Answer the > blockquote inlined questions.
 
-The commands to execute are:
+*The commands to execute are:*
 
 1. `mkdir learn_git`
 2. `cd learn_git`
@@ -46,3 +46,5 @@ The commands to execute are:
 13. `git add afile.txt`
 14. `git commit -m "second commit"`
 15. `git log`
+
+---
