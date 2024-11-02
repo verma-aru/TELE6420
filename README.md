@@ -16,8 +16,6 @@
 2. In `show_time.py`, write Python code to display the current time.
 3. Push the newly created `show_time.py` file to the remote master/main branch.
 4. Create two additional developer branches in your project, each branched directly from master/main.
-   - **TELE6420-Infrastructure Automation Design and Tools**
-   - Due Date: November 2nd, 2024
 5. Now using the `Developer-1` branch, modify the code to display time and date.
 6. As `Developer-2`, modify the code to display time, date, and day.
 
