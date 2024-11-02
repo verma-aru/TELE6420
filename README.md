@@ -49,4 +49,5 @@ For submission of Questions 1 and 2, show the CLI commands used with terminal ou
 
 
 Copyright © Arun Verma[^1] MS Student Fall 2022 Batch
+[^1]: Copyright © Arun Verma[^1] MS Student Fall 2022 Batch
 ---
